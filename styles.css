@@ -1,0 +1,20 @@
+* {
+    font-family: Georgia, Garamond, Monospace, sans-serif;
+    text-align: justify;
+}
+.page-title {
+    background-color: aqua;
+    padding: 5px;
+}
+li a {
+    color: rebeccapurple;
+}
+.title-color {
+    color: darkblue;
+}
+.top-image {
+    display: block;
+    max-height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
